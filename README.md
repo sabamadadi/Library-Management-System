@@ -1,5 +1,9 @@
 # Library Management System
 
+Third Assignment of Advanced Programming course at Shahid Beheshti University (Spring 2023)
+
+Score: 118 out of 100
+
 ## Introduction
 In this assignment, you will create an object-oriented Java program that can manage a library. The program should allow users to search for books, borrow and return books, and manage the library inventory. The program should be designed using object-oriented programming principles.
 
